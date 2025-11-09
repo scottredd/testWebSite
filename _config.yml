@@ -19,6 +19,4 @@ minima:
     - title: "About"
       url: "/about/"
 
-# Site metadata
-author:
-  name: "Your Name"
+author: "Scott Redd"
