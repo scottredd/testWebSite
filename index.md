@@ -1,5 +1,4 @@
 ---
 layout: default
 ---
-
-This is an index.md
+This is an index.md file using a Jekyll theme.
