@@ -6,5 +6,5 @@ permalink: /docs/
 
 Quick links:
 
-- [Getting Started](/testWebSite/docs/getting-started/)
-- [Best Practices](testWebSite/docs/best-practices/)
+- [Getting Started](/testWebSite/docs/getting-started.html/)
+- [Best Practices](/testWebSite/docs/best-practices.html/)
