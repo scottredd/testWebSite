@@ -1,1 +1,13 @@
 theme: jekyll-theme-minimal
+title: Mesh Omaha
+description: Community for Meshtastic users in the Omaha metro
+minima:
+  nav:
+    - title: "Home"
+      url: "/"
+    - title: "Docs"
+      url: "/docs/"
+    - title: "Blog"
+      url: "/blog/"
+    - title: "Discord"
+      url: "/discord/"
