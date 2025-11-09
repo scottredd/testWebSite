@@ -5,19 +5,16 @@ title: Welcome to Mesh Omaha
 
 # Welcome to the Omaha Meshtastic Community 🌐
 
-This is a **sample page** built with Markdown and a Jekyll theme.
-
 Our mission is to connect the greater Omaha area —  
-including **Council Bluffs**, **Bellevue**, **Ralston**, **Papillion**, and **Gretna** —  
+including **Council Bluffs**, **Bellevue**, **Ralston**, **Papillion**, **Gretna**, and surrounding communities  
 through Meshtastic radios, open-source tools, and collaboration.
 
 ---
 
 ## 🔗 Quick Links
 
-- [Join us on Discord](https://discord.gg/YOUR_INVITE)
+- [Join us on Discord Connect, US - Nebraska](https://discordapp.com/channels/867578229534359593/1217697721285218314)
 - [Meshtastic Project](https://meshtastic.org)
-- [GitHub Repository](https://github.com/YOUR_USERNAME/YOUR_REPO)
 
 ---
 
@@ -30,8 +27,3 @@ through Meshtastic radios, open-source tools, and collaboration.
 
 ---
 
-## 💡 Example Code Block
-
-```python
-# Example: simple ping message
-send_message("!ping", destination="FA16")
